@@ -11,5 +11,5 @@ Mods controls:
 [Page Down] will now allow you to go down incrementally with 10 stages of speed 
 [Page up] works as the return to normal switch, but also will toggle full slow mode.
 
-# invincibility
+# Invincibility
 [End] toggles it on and off
