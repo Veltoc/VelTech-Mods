@@ -7,6 +7,8 @@ For any questions, feel free to contact Veltoc#8008 in PM on discord or through 
 
 # Mods controls:
 ## Time 
+/time # using a number 1-10, 10 being normal speed, 1 being slowest.
+or you can use buttons,
 [Home] pauses time
 
 [Page Down] will now allow you to go down incrementally with 10 stages of speed 
