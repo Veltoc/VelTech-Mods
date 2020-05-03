@@ -7,21 +7,12 @@ For any questions, feel free to contact Veltoc#8008 in PM on discord or through 
 
 # Mods controls:
 ## Time 
-/time # using a number 1-10, 10 being normal speed, 1 being slowest.
-or you can use buttons,
 [Home] pauses time
 
 [Page Down] will now allow you to go down incrementally with 10 stages of speed 
 
 [Page up] works as the return to normal switch, but also will toggle full slow mode.
-## Giffer
-*Requires chat util*
-in chat enter:
-/gif # for lenth in seconds
-/gframe # for framerate of gif (note: I don't recommend messing with this much)
 
 ## Custom Smoke
-Smoke now takes on the color of the jets secondary color, also works on small jet flames.
-
-## Invincibility[out of date]
-[End] toggles it on and off
+[pause/break] opens a slider menu, adjust the values with the slider to get the desired color and click apply. 
+*Note, this is the alternative due to secondary color being inaccessable with the current obfuscation.
